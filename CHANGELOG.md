@@ -9,3 +9,4 @@ Change Log
  * dev改动4
  * fea_2改动1
  * fea_2改动2
+ * release_1.0改动1
